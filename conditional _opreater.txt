@@ -1,0 +1,23 @@
+class Increment
+{
+ public static void main(String args[])
+{
+   int m=5, n=10;
+   System.out.println("m= "+m);
+   System.out.println("n="+n");
+   system.out.println("++m= "+ ++m);
+   system.out.println("n++= "+  n++);
+   system.out.println("m= "+m);
+   system.out.println("n= "+n);
+}
+}
+
+ 
+
+
+
+
+
+
+
+                                             

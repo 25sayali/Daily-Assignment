@@ -1,0 +1,22 @@
+class NestingIfelse
+{
+    public static void main(String args[])
+   {
+           int a=150,b=123,c=765;
+           System.out.print("Largest value is :  ");
+           if(a>b)
+          {
+              if(a>c)
+              System.out.println(a);
+               else
+              System.out.println(c);
+          }
+          else
+         {
+              if(b>c)
+              System.out.println(b);
+               else
+               System.out.println(c);
+}
+}
+}

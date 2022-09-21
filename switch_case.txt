@@ -1,0 +1,28 @@
+class  Switchtest
+{
+   Public static void main(String args[])
+    {
+        int s=4;
+        switch(s)
+        {
+             case1: 
+             case2:
+             case3:  System.out.println("Summer is around the corner");
+                          break;
+             case4:
+             case5:
+             case6:  System.out.println("Spring  is around the corner");
+                          break;
+             case7:
+             case8:
+             case9:   System.out.println{"Autumn is around the corner");
+                           break;
+             case10: 
+             case11:
+             case12:  System.out.println("Winter is around the corner");
+                            break;
+             }
+         }
+    }
+                  
+  
